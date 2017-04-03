@@ -1,0 +1,1 @@
+REPLACE INTO `system_page` (`id`, `group`, `name`, `state`, `parent_id`, `login`, `type`, `div`, `url`, `func`, `php_class`) VALUES (5400, 42, 'contact', 'contact', -1, 0, 0, '#content', './sai.php?sai_mod=saimod_webcraft_contact', 'init_saimod_webcraft_contact', 'saimod_webcraft_contact');
