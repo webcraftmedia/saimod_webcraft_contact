@@ -1,0 +1,2 @@
+REPLACE INTO `system_api` (`ID`, `group`, `type`, `parentID`, `parentValue`, `name`, `verify`) VALUES (5400, 42, 0, 0, '_SAI_saimod_webcraft_contact', 'action', NULL);
+REPLACE INTO `system_api` (`ID`, `group`, `type`, `parentID`, `parentValue`, `name`, `verify`) VALUES (5410, 42, 2, 5400, 'mail', 'data', 'JSON');
